@@ -17,8 +17,8 @@
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="http://purl.org/gc/">
-        <!--<owl:imports rdf:resource="http://data.qudt.org/qudt/owl/1.0.0/unit.owl"/>
-        <owl:imports rdf:resource="http://www.daml.org/2003/01/periodictable/PeriodicTable.owl"/> -->
+        <!--<owl:imports rdf:resource="http://data.qudt.org/qudt/owl/1.0.0/unit.owl"/> -->
+        <owl:imports rdf:resource="http://www.daml.org/2003/01/periodictable/PeriodicTable.owl"/> 
         <!-- http://bfo.googlecode.com/svn/releases/2012-07-20-graz/owl-group/bfo.owl -->
         <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.7.0</owl:versionInfo>
         <rdfs:comment xml:lang="en">An ontology for publishing results of computational chemistry.</rdfs:comment>
